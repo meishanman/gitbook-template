@@ -1,0 +1,10 @@
+{
+    "links": {
+        "sidebar": {
+            "Home": "/"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
